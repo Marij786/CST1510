@@ -1,0 +1,43 @@
+PASS: LAB/template.py
+Output: ================================
+  RECORD CHECK  -  R-003
+==================================
+  Value : 45.0
+  Limit : 100.0
+  Status: OK
+==================================
+
+OVER LIMIT: 1 of 3 records
+
+Error: 
+
+PASS: LAB/warmup/03_name_error.py
+Output: OVER LIMIT
+
+Error: 
+
+PASS: LAB/warmup/02_attribute_error.py
+Output: 87.0
+
+Error: 
+
+PASS: LAB/warmup/01_missing_self.py
+Output: 95
+
+Error: 
+
+PASS: LAB/W05_Lab.ipynb
+Output: All notebook cells executed
+Error: 
+
+PASS: 03 - Many Objects Together/W05T03_walkthrough.ipynb
+Output: All notebook cells executed
+Error: 
+
+PASS: 01 - Classes and Objects/W05T01_walkthrough.ipynb
+Output: All notebook cells executed
+Error: 
+
+PASS: 02 - Methods/W05T02_walkthrough.ipynb
+Output: All notebook cells executed
+Error: 
