@@ -1,1 +1,0 @@
-Week 07 completed: walkthrough answers, lab drills D1-D15 and challenges C1-C2, and the IT-lane mini-project are filled in. Original warm-up files remain intentionally broken for the exercise; corrected runnable versions are in LAB/warmup/solutions/.\n

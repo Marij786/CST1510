@@ -1,3 +1,0 @@
-  Srv-05 , used=88 , total=100 
-SRV-06,used=95,total=100
-srv-07 , used=40,total=80
